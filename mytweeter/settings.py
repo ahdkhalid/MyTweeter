@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 MAX_TWEET_LENGTH = 200
+TWEET_ACTION_OPTIONS = ['like' , 'unlike', 'retweet']
 
 # Application definition
 
